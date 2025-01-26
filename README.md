@@ -2,7 +2,7 @@ PORTUGUES - ////////////////////////////////////////////////////////////////////
 
 Este projeto é uma tentativa de converter ou equiparar uma api rest feita em java/springboot para rust, de forma transparente.
 
-Há vávrio warnings de snake_case, mas é devido a necessidade dos nomes dos atributos e demais objetos presentes no projeto que usei de exemplo.
+Há vários warnings de snake_case, mas é devido a necessidade dos nomes dos atributos e demais objetos presentes no projeto que usei de exemplo.
 
 ENGLISH - ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
